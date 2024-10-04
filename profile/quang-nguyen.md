@@ -1,0 +1,15 @@
+# Quang Nguyen
+
+<figure><img src="../.gitbook/assets/Quang Nguyen.png" alt="" width="188"><figcaption></figcaption></figure>
+
+🔹 UFIN ACADEMY BTC SCHOOL
+
+🔹 UFINER AT UFIN INCUBATOR
+
+🔹 CO-FOUNDER / HEAD OF SOLI PRIME HC-NS DEPARTMENT
+
+🔹 FOUNDER WEB3 VENTURES COMMUNITY FUND
+
+🔹 5 YEARS OF REAL ESTATE SALES MANAGEMENT EXPERIENCE
+
+🔹 5 YEARS PARTICIPATING IN THE FINANCIAL MARKET, BLOCKCHAIN
