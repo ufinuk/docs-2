@@ -8,7 +8,7 @@
 * [UFIN WITH SUPERIOR STRENGTH](ufin-with-superior-strength.md)
 * [PARTNER](partner/README.md)
   * [200++ PROJECTS INCUBATED AND SUPPORTED BY UFIN](partner/200++-projects-incubated-and-supported-by-ufin.md)
-  * [300++ PARTNERS](partner/300++-partners.md)
+  * [200++ PARTNERS](partner/200++-partners.md)
   * [20++ VENTURERS](partner/20++-venturers.md)
   * [LIVESTREAM](partner/livestream.md)
 * [UFIN ACTIVITIES](ufin-activities.md)
