@@ -40,3 +40,4 @@
   * [Intrastructure](portfolio/intrastructure.md)
   * [SocialFi](portfolio/socialfi.md)
   * [DePIN](portfolio/depin.md)
+* [Ting Foundation Partner Program (TFPP)](ting-foundation-partner-program-tfpp.md)
