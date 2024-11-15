@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [UFIN Ecosysten](ufin-ecosysten.md)
+* [UFIN Ecosystem](ufin-ecosystem.md)
 * [History Of Formation And Development](history-of-formation-and-development.md)
 * [20++ Member Company](20++-member-company.md)
 * [Vision - Mission](vision-mission.md)
