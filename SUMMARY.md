@@ -12,6 +12,7 @@
   * [20++ VENTURERS](partner/20++-venturers.md)
   * [LIVESTREAM](partner/livestream.md)
 * [UFIN Activities](ufin-activities.md)
+* [University Tour](university-tour.md)
 * [Careers](careers.md)
 * [The Media Reported About Us](the-media-reported-about-us.md)
 * [Team](team.md)

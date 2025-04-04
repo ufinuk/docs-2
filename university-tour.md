@@ -1,0 +1,3 @@
+# University Tour
+
+<table><thead><tr><th width="216.6796875"></th><th width="224.90625"></th></tr></thead><tbody><tr><td>Greenwich University</td><td><a href="https://greenwich.edu.vn/">https://greenwich.edu.vn</a></td></tr><tr><td>Ton Duc Thang University</td><td><a href="https://www.tdtu.edu.vn/">https://www.tdtu.edu.vn</a></td></tr><tr><td>BTEC - Melbourne</td><td><a href="https://btec.fpt.edu.vn/">https://btec.fpt.edu.vn</a></td></tr><tr><td>HCMC University</td><td><a href="https://en.hcmute.edu.vn/">https://en.hcmute.edu.vn</a></td></tr><tr><td>FPT Polytechnic</td><td><a href="https://caodang.fpt.edu.vn/">https://caodang.fpt.edu.vn</a></td></tr><tr><td>Gia Dinh University</td><td><a href="https://giadinh.edu.vn/">https://giadinh.edu.vn</a></td></tr></tbody></table>
