@@ -2,14 +2,14 @@
 
 <figure><img src="../.gitbook/assets/Thomas Hoang.png" alt="" width="188"><figcaption></figcaption></figure>
 
-🔹 FOUNDER JO-I
+🔹 Chief Operating Officer of UFIN Group
 
-🔹 LECTURER AT FINANCIAL TECHNOLOGY STARTUP ACADEMY.
+🔹 Co-Founder of Ting Foundation
 
-🔹 6 YEARS EXPERIENCE IN BLOCKCHAIN FIELD.
+🔹 Lecturer at UFIN Academy
 
-🔹 BUSINESS CONSULTANT OF MORE THAN 10 ENTERPRISES.
+🔹 Over 7 years of experience in the blockchain industry
 
-🔹 MORE THAN 5 YEARS OF EXPERIENCE AS SENIOR MANAGEMENT IN DIRECT SALES FIELD.
+🔹 Business advisor to more than 50 companies across various sectors
 
-🔹 MORE THAN 2 YEARS OF EXTRACOOL COMMUNITY DEVELOPMENT EXPERIENCE
+🔹 Speaker at over 30 forums on Web3, Blockchain, and AI
