@@ -1,6 +1,6 @@
 # Team
 
-<figure><img src=".gitbook/assets/slide ufin1-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2026-01-03 at 12.17.36.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/UFIN Group Profile [ENG Version].pptx.png" alt=""><figcaption></figcaption></figure>
 

@@ -19,7 +19,6 @@ Mr. Hoang Dai Nghia – Head of Legal Department. The notice takes effect from t
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>

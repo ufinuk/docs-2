@@ -24,7 +24,6 @@ HANDLING OFFICER Mr. Hoang Dai Nghia – Head of Legal Department. The notice ta
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
